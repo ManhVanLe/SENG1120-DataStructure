@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.vscode/
+*.zip
+*.mp4
+*.docx
+*.pdf
